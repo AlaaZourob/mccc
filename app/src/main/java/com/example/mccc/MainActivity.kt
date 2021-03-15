@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.d("az7","onCreat :Welcome")
+        Log.d("az7","onCreat :Welcome test")
+
     }
 }
